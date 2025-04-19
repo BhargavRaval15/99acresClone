@@ -1,6 +1,6 @@
-# 99acres Clone
+# 101acres Clone
 
-A full-stack MERN application that replicates the core functionalities of 99acres.com, a leading real estate platform.
+A full-stack MERN application that replicates the core functionalities of 101acres.com, a leading real estate platform.
 
 ## Features
 
@@ -27,7 +27,7 @@ A full-stack MERN application that replicates the core functionalities of 99acre
 ## Project Structure
 
 ```
-99acresClone/
+101acresClone/
 ├── client/                 # React frontend
 ├── server/                 # Node.js backend
 ├── .gitignore

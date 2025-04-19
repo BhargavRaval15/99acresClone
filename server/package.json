@@ -1,7 +1,7 @@
 {
-  "name": "99acres-server",
+  "name": "101acres-server",
   "version": "1.0.0",
-  "description": "Backend server for 99acres clone",
+  "description": "Backend server for 101acres clone",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
